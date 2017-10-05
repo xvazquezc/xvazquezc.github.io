@@ -94,6 +94,7 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   researchgate     : "Xabier_Vazquez_Campos"
   orcid            : "0000-0003-1134-5058" # just the number ID, e.g. 0000-0000-0000-0000
+  publons          : "1202647" #just the number
 
 
 # Reading Files
