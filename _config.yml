@@ -91,6 +91,8 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   twitter          : "XabiVC"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  researchgate     : "Xabier_Vazquez_Campos"
+  orcid            : "0000-0003-1134-5058" # just the number ID, e.g. 0000-0000-0000-0000
 
 
 # Reading Files

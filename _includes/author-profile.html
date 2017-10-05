@@ -243,6 +243,22 @@
         </li>
       {% endif %}
 
+      {% if author.researchgate %}
+        <li>
+          <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.orcid %}
+        <li>
+          <a href="https://www.orcid.org/{{ author.orcid }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-orcid" aria-hidden="true"></i> ORCID
+          </a>
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
