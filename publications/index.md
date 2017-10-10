@@ -1,7 +1,8 @@
 ---
 layout: single
+modified: "`r Sys.Date()`"
+comments: false
 ---
-{% include toc %}
 
 # Publications
 ## Peer reviewed
