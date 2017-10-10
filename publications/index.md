@@ -1,8 +1,5 @@
 ---
-title: "Publications"
-output:
-  github_document:
-    toc: yes
+layout: default
 ---
 
 ## Peer reviewed
