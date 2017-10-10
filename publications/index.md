@@ -1,7 +1,8 @@
 ---
-layout: single
-modified: "`r Sys.Date()`"
+layout: default
+modified: "2017-10-10"
 comments: false
+toc: true
 ---
 
 # Publications
