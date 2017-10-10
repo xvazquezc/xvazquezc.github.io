@@ -5,9 +5,8 @@ permalink: /publications/
 modified: "2017-10-10"
 comments: false
 ---
-{% include toc.html %}
+{% include toc %}
 
-# Publications
 ## Peer reviewed
 
 ### 2017
@@ -29,7 +28,7 @@ Kolařík, M., Hujslová, M., & __Vázquez-Campos, X.__
 _Czech Mycology_, 67(1), 37–38.  
 
 ### 2014
-__Fodinomyces uranophilus__ ***gen. nov. sp. nov. and *Coniochaeta fodinicola *sp. nov., two uranium mine inhabiting Ascomycota fungi from northern Australia***  
+__Fodinomyces uranophilus__ ___gen. nov. sp. nov. and_ Coniochaeta fodinicola _sp. nov., two uranium mine inhabiting Ascomycota fungi from northern Australia___  
 __Vázquez-Campos, X.__, Kinsela, A. S., Waite, T. D., Collins, R. N., & Neilan, B. A.  
 _Mycologia_, 106(6), 1073–1089. [https://doi.org/10.3852/14-013]()  
 
