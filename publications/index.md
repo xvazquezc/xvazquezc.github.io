@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 ---
-
+# Publications
 ## Peer reviewed
 
 ### 2017
