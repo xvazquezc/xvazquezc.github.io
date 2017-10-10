@@ -1,9 +1,11 @@
 ---
+title: "Publications"
 layout: single
+permalink: /publications/
 modified: "2017-10-10"
 comments: false
 ---
-{% include toc %}
+{% include toc.html %}
 
 # Publications
 ## Peer reviewed
