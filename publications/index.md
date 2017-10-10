@@ -3,13 +3,15 @@ layout: single
 modified: "2017-10-10"
 comments: false
 ---
-# Publications
+{% include toc %}
+
+
 ## Peer reviewed
 
 ### 2017
 ___Response of microbial community function to fluctuating geochemical conditions within a legacy radioactive waste trench environment___  
 __Vázquez-Campos, X.__, Kinsela, A. S., Bligh, M., Harrison, J. J., Payne, T. E., & Waite, T. D.  
-_Applied and Environmental Microbiology_, 83(17), e00729. https://doi.org/10.1128/AEM.00729-17  
+_Applied and Environmental Microbiology_, 83(17), e00729. [https://doi.org/10.1128/AEM.00729-17]()  
 
 ___Uranium extraction from a low-grade, stockpiled, non-sulfidic ore: Impact of added iron and the native microbial consortia___  
 __Vázquez-Campos, X.__, Kinsela, A. S., Collins, R. N., Neilan, B. A., & Waite, T. D.  
