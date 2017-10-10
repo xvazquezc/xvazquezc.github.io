@@ -1,5 +1,8 @@
 ---
+layout: single
 ---
+{% include toc %}
+
 # Publications
 ## Peer reviewed
 
