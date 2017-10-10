@@ -2,9 +2,8 @@
 layout: default
 modified: "2017-10-10"
 comments: false
-toc: true
 ---
-
+{% include toc %}
 # Publications
 ## Peer reviewed
 
