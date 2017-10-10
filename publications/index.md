@@ -61,7 +61,11 @@ Dong, C., __Vázquez-Campos, X.__, Deshpande, N., Zhang, P., Wilkins, M. R., & P
 Rosales, E., Pazos, M. M., __Vázquez, X.__, & Sanromán, M. A. (2010). Biodegradación de compuestos aromáticos contaminantes de suelos por hongos soportados en residuos agroindustriales [Biodegradation of pollutant aromatic compounds in soils by fungi supported on agroindustrial residues]. Presented at the _III Congreso de Microbiología Industrial y Biotecnología Microbiana_, Alcalá de Henares (ES): Universidad de Alcalá.  
 
 
-### Theses
+## Theses
 Vázquez Campos, X. (2015). Geomicrobiological aspects of the (bio)leaching of weathered low-grade uranium ore (PhD Thesis). _The University of New South Wales_, Sydney, NSW, Australia. [10.13140/RG.2.1.3335.8320]()  
 
 Vázquez Campos, X. (2008). Puesta a punto de metodologías de ecología molecular para el seguimiento de las poblaciones microbianas en un reactor indirecto para la biolixiviación de Zn a partir de concentrados de sulfuros polimetálicos [Set-up of molecular ecology methodologies for monitoring of the microbial populations in an indirect reactor for bioleaching of Zn from polymetallic sulfide concentrates] (Master Thesis). _Universidad Autónoma de Madrid_, Madrid, Spain.  
+
+
+## Non-peer reviewed
+__Vázquez Campos, X.__ (2007). Lixiviación Microbiana [Microbial leaching]. _Rebigo. Revista da Facultade de Bioloxía da Universidade de Vigo_, 2, 47–54.
