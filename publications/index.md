@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 modified: "2017-10-10"
 comments: false
 ---
