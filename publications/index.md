@@ -40,9 +40,7 @@ _Bioprocess and Biosystems Engineering_, 35(5), 851–855. [https://doi.org/10.1
 
 ## Conference contributions
 ### Oral presentations
-__Vázquez-Campos, X.__, Kinsela, A. S., Payne, T. E., & Waite, T. D. (2017b, June). Metagenomic and geochemical changes following rainfall at a legacy radionuclide waste disposal site. Presented at the _Joint Academic Microbiology Seminars (JAMS)_, Sydney, Australia.  
-
-__Vázquez-Campos, X.__, Kinsela, A. S., Payne, T. E., & Waite, T. D. (2017a). Metagenomic and geochemical changes following rainfall at a legacy radionuclide waste disposal site. Presented at the _Australian Microbial Ecology Conference - AusME 2017_, Melbourne, Australia.  
+__Vázquez-Campos, X.__, Kinsela, A. S., Payne, T. E., & Waite, T. D. (2017). Metagenomic and geochemical changes following rainfall at a legacy radionuclide waste disposal site. Presented at the _Australian Microbial Ecology Conference - AusME 2017_, Melbourne, Australia.  
 
 __Vázquez-Campos, X.__, Kinsela, A. S., Neilan, B. A., Collins, R. N., & Waite, T. D. (2012). The isolation of fungi from low-pH, high ionic strength uranium mine process water. Presented at the _6th International Symposium on Biohydrometallurgy_. Falmouth, UK. Short paper: [https://doi.org/10.13140/2.1.2786.9762](). Presentation: [https://doi.org/10.6084/m9.figshare.3479051]()  
 
@@ -60,6 +58,10 @@ Payne, T. E., Kinsela, A. S., Ikeda-Ohno, A., __Vázquez-Campos, X.__, Waite, T.
 Dong, C., __Vázquez-Campos, X.__, Deshpande, N., Zhang, P., Wilkins, M. R., & Park, R. F. (2017). Understanding oat stem rust pathogen genome by PacBio sequencing. Presented at the _Sydney Bioinformatics Research Symposium 2017_, Sydney, Australia.  
 
 Rosales, E., Pazos, M. M., __Vázquez, X.__, & Sanromán, M. A. (2010). Biodegradación de compuestos aromáticos contaminantes de suelos por hongos soportados en residuos agroindustriales [Biodegradation of pollutant aromatic compounds in soils by fungi supported on agroindustrial residues]. Presented at the _III Congreso de Microbiología Industrial y Biotecnología Microbiana_, Alcalá de Henares (ES): Universidad de Alcalá.  
+
+
+## Invited talks
+__Vázquez-Campos, X.__, Kinsela, A. S., Payne, T. E., & Waite, T. D. (2017 June 27). Metagenomic and geochemical changes following rainfall at a legacy radionuclide waste disposal site. Presented at the _Joint Academic Microbiology Seminars (JAMS)_, Sydney, Australia.  
 
 
 ## Theses
